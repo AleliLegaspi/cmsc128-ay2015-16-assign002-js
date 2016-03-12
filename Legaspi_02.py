@@ -122,11 +122,6 @@ def getMinSkewN(mystr,n):
 		else : return diff;
 
 
-
-
-
-
-
 #---------------------------MAIN----------------------------------#
 print "\n[FUNCTION1]";
 f1 = getHammingDistance("aaa","aba");
@@ -151,23 +146,4 @@ print ">> MaxSkew : ",f5;
 print "\n[FUNCTION6]";
 f6 = getMinSkewN("GGGGCCCAAA",5);
 print ">> MinSkew : ",f6;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
